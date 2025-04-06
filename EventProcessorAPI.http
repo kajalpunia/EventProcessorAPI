@@ -1,0 +1,6 @@
+@EventProcessorAPI_HostAddress = http://localhost:5245
+
+Post {{EventProcessorAPI_HostAddress}}/api/events/processor
+Accept: application/json
+
+###
